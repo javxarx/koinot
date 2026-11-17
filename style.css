@@ -2,7 +2,11 @@
 body {
     padding: 0;
     margin: 0;
+    background-color: #0b0d17;
+    color: #ffffff;
+    font-family: sans-serif;
 }
+
 
 .tepadagi {
     height: 60px;
